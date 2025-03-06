@@ -6,7 +6,7 @@ ___________________________________________
 
 ## PRIMEIRA RESPOSTA:
 
-* De primeira mão, deve ser entendido a problemática que queremos solucionar, o publico alvo e as principais formas de chamar a atenção dele. Para isso deve ser levantado os princicpais requisitos para o projeto, as caracteristicas principais, e as secundárias (Requisitos funcionais e não funcionais). Com o problema entendido e a solução pensada, deve ser feitop um protótipo apresentável da ideia.
+* De primeira mão, deve ser entendido a problemática que queremos solucionar, o publico alvo e as principais formas de chamar a atenção dele. Para isso deve ser levantado os princicpais requisitos para o projeto, as caracteristicas principais, e as secundárias (Requisitos funcionais e não funcionais). Com o problema entendido e a solução pensada, deve ser feito um protótipo apresentável da ideia.
 
 ## SEGUNDA RESPOSTA:
 
