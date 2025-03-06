@@ -10,4 +10,4 @@ ___________________________________________
 
 ## SEGUNDA RESPOSTA:
 
-* Eu e minha equipe iriamos procurar por matérias que fossem menos custosos, mais sustentáveis mas que ainda assim não tirasse a essencia, usabilidade e conforto do produto, evitando assim insatisfações do usuário final.
+* Eu e minha equipe iriamos procurar por matérias que fossem menos custosos, mais sustentáveis mas que ainda assim não tirasse a essencia, usabilidade, durabilidade e conforto do produto, evitando assim insatisfações do usuário final.
